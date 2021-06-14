@@ -24,6 +24,6 @@ Download the AutoIt script and use AutoIt to compile and run
 
 * roundar
 * Cyber Tech Cafe, LLC
-* AutoDesk (without their shitty installer....this software wouldn't exist)
+* AutoDesk 
 * AutoIt
 
